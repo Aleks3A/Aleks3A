@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aleks3A - Aleksander from Kiev? Ukraine
+- 👋 Hi, I’m @Aleks3A - Aleksander from Kiev, Ukraine
 - 👀 I’m interested in programming WEB application
 - 🌱 I’m currently learning Python, Docker container
 - 💞️ I’m looking to collaborate on GitHub
